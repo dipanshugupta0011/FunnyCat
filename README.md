@@ -1,0 +1,1 @@
+# FunnyCat this is a very simple project for javaScript Learner for know what is even and dom manupulation.![Screenshot 2023-10-06 122328](https://github.com/dipanshugupta0011/FunnyCat/assets/131527196/f415394e-efc3-4aaa-aee7-eb2b62d9215e)
